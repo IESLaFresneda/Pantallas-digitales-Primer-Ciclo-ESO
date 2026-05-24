@@ -1,0 +1,6 @@
+{
+  "name": "Bienestar Digital Familiar",
+  "description": "Recurso interactivo para familias sobre el uso saludable de pantallas en el primer ciclo de ESO, basado en el estudio de Asturias de UNICEF y la Consejería de Educación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
